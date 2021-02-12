@@ -1,0 +1,9 @@
+#parent {
+    display: flex;
+}
+#narrow {
+    width: 200px;
+}
+#wide {
+    flex: 1;
+}
