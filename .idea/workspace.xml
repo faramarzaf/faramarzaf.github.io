@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf87f17c-1ef3-4b5b-9211-f837b173eda7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/centerize.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +47,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613117873527</updated>
-      <workItem from="1613117876626" duration="6838000" />
+      <workItem from="1613117876626" duration="8089000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613125124512">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="376" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1613125124512" />
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613125141088">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1613125141088" />
   </component>
 </project>
