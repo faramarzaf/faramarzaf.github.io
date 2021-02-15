@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf87f17c-1ef3-4b5b-9211-f837b173eda7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../InteliJSpringProjects/spring_security" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -50,6 +51,8 @@
       <workItem from="1613139358029" duration="2173000" />
       <workItem from="1613150845017" duration="5477000" />
       <workItem from="1613161963122" duration="4749000" />
+      <workItem from="1613201466814" duration="231000" />
+      <workItem from="1613379601041" duration="644000" />
     </task>
     <servers />
   </component>
@@ -65,5 +68,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1613125141088" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1613201643274">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1613201643274" />
   </component>
 </project>
