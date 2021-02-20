@@ -57,6 +57,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="376" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613126404199">
       <screen x="0" y="0" width="1366" height="768" />
